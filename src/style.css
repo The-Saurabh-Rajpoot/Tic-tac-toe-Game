@@ -1,0 +1,25 @@
+.cells{
+    
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    
+    
+}
+
+.row-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+}
+.main-container{
+    margin: auto;
+    text-align: center;
+}
+#restart-game{
+    margin-top: 10px;
+    background-color: rgb(140, 235, 140);
+}
